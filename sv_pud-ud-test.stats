@@ -1,0 +1,19 @@
+{
+  "dataset_id": "sv_pud-ud-test",
+  "num_documents": 397,
+  "num_annotated_documents": 397,
+  "num_annotations": 1542,
+  "num_annotators": 2,
+  "annotator_ids": [
+    "ekaterina.artemova",
+    "emil"
+  ],
+  "num_docs_with_multiple_annotators": 1,
+  "num_sentences": 1000,
+  "num_tokens": 19076,
+  "label_distribution": {
+    "LOC": 442,
+    "PER": 425,
+    "ORG": 162
+  }
+}

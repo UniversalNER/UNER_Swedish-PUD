@@ -438,7 +438,7 @@
 1	Idag	O	-	-
 2	är	O	-	-
 3	kanske	O	-	-
-4	Khanzir	B-OTH	-	EmilStenstrom
+4	Khanzir	O	-	-
 5	en	O	-	-
 6	ensam	O	-	-
 7	gris	O	-	-
@@ -757,18 +757,18 @@
 
 # sent_id = n01016-0003
 # text = Mate-9-telefonerna saknar ett artificiellt intelligens-gränssnitt, som Google Assistant eller Apples Siri.
-1	Mate-9-telefonerna	B-OTH	-	EmilStenstrom
+1	Mate-9-telefonerna	O	-	-
 2	saknar	O	-	-
 3	ett	O	-	-
 4	artificiellt	O	-	-
 5	intelligens-gränssnitt	O	-	-
 6	,	O	-	-
 7	som	O	-	-
-8	Google	B-OTH	-	EmilStenstrom
-9	Assistant	I-OTH	-	EmilStenstrom
+8	Google	O	-	-
+9	Assistant	O	-	-
 10	eller	O	-	-
 11	Apples	B-ORG	-	EmilStenstrom
-12	Siri	B-OTH	-	EmilStenstrom
+12	Siri	O	-	-
 13	.	O	-	-
 
 # newdoc id = n01017
@@ -1065,7 +1065,7 @@
 # sent_id = n01022-0001
 # text = En FN-rapport över nationella planer för att minska kolet säger att de är långt under de nivåer som behövs för att hålla ökningen av den globala temperaturen under 2 °C.
 1	En	O	-	-
-2	FN-rapport	B-OTH	-	EmilStenstrom
+2	FN-rapport	O	-	-
 3	över	O	-	-
 4	nationella	O	-	-
 5	planer	O	-	-
@@ -1130,7 +1130,7 @@
 5	rätt	O	-	-
 6	riktning	O	-	-
 7	:	O	-	-
-8	Paris-avtalet	B-OTH	-	EmilStenstrom
+8	Paris-avtalet	O	-	-
 9	kommer	O	-	-
 10	att	O	-	-
 11	sakta	O	-	-
@@ -1141,11 +1141,11 @@
 16	även	O	-	-
 17	det	O	-	-
 18	nyliga	O	-	-
-19	Kigali-tillägget	B-OTH	-	EmilStenstrom
+19	Kigali-tillägget	O	-	-
 20	för	O	-	-
 21	att	O	-	-
 22	minska	O	-	-
-23	HFC:er	B-OTH	-	EmilStenstrom
+23	HFC:er	O	-	-
 24	kommer	O	-	-
 25	att	O	-	-
 26	göra	O	-	-
@@ -1673,7 +1673,7 @@
 6	var	O	-	-
 7	den	O	-	-
 8	oscarsvinnande	O	-	-
-9	Gravity	B-OTH	-	EmilStenstrom
+9	Gravity	O	-	-
 10	,	O	-	-
 11	var	O	-	-
 12	enligt	O	-	-
@@ -1792,7 +1792,7 @@
 4	analys	O	-	-
 5	av	O	-	-
 6	tumörers	O	-	-
-7	DNA	B-OTH	-	EmilStenstrom
+7	DNA	O	-	-
 8	kan	O	-	-
 9	hjälpa	O	-	-
 10	till	O	-	-
@@ -1827,7 +1827,7 @@
 16	mutationer	O	-	-
 17	i	O	-	-
 18	tumörens	O	-	-
-19	DNA	B-OTH	-	EmilStenstrom
+19	DNA	O	-	-
 20	.	O	-	-
 
 # sent_id = n01033-0003
@@ -2259,7 +2259,7 @@
 14	ett	O	-	-
 15	villkor	O	-	-
 16	i	O	-	-
-17	Parisavtalet	B-OTH	-	EmilStenstrom
+17	Parisavtalet	O	-	-
 18	för	O	-	-
 19	att	O	-	-
 20	dra	O	-	-
@@ -3223,7 +3223,7 @@
 1	Syftet	O	-	-
 2	med	O	-	-
 3	dessa	O	-	-
-4	CRTC-utfrågningar	B-OTH	-	EmilStenstrom
+4	CRTC-utfrågningar	O	-	-
 5	är	O	-	-
 6	att	O	-	-
 7	föra	O	-	-
@@ -3449,7 +3449,7 @@
 3	vet	O	-	-
 4	inte	O	-	-
 5	vad	O	-	-
-6	BNP-tillväxten	B-OTH	-	EmilStenstrom
+6	BNP-tillväxten	O	-	-
 7	var	O	-	-
 8	under	O	-	-
 9	Washingtons	B-PER	-	EmilStenstrom
@@ -3571,8 +3571,8 @@
 10	”	O	-	-
 11	,	O	-	-
 12	förklarade	O	-	-
-13	Donald	B-OTH	-	EmilStenstrom
-14	Trump-imitatören	I-OTH	-	EmilStenstrom
+13	Donald	O	-	-
+14	Trump-imitatören	O	-	-
 15	John	B-PER	-	EmilStenstrom
 16	Di	I-PER	-	EmilStenstrom
 17	Domeico	I-PER	-	EmilStenstrom
@@ -3661,10 +3661,10 @@
 12	version	O	-	-
 13	av	O	-	-
 14	”	O	-	-
-15	Knuck	B-OTH	-	EmilStenstrom
-16	if	I-OTH	-	EmilStenstrom
-17	you	I-OTH	-	EmilStenstrom
-18	Buck	I-OTH	-	EmilStenstrom
+15	Knuck	O	-	-
+16	if	O	-	-
+17	you	O	-	-
+18	Buck	O	-	-
 19	”	O	-	-
 20	på	O	-	-
 21	en	O	-	-
@@ -3830,8 +3830,8 @@
 6	utgåva	O	-	-
 7	av	O	-	-
 8	”	O	-	-
-9	Zettel's	B-OTH	-	EmilStenstrom
-10	Traum	I-OTH	-	EmilStenstrom
+9	Zettel's	O	-	-
+10	Traum	O	-	-
 11	”	O	-	-
 12	,	O	-	-
 13	vilket	O	-	-
@@ -4339,7 +4339,7 @@
 6	sina	O	-	-
 7	matcher	O	-	-
 8	i	O	-	-
-9	Rugbymästerskapen	B-OTH	-	EmilStenstrom
+9	Rugbymästerskapen	O	-	-
 10	nyligen	O	-	-
 11	,	O	-	-
 12	hade	O	-	-
@@ -4689,7 +4689,7 @@
 5	par	O	-	-
 6	öppna	O	-	-
 7	fyra	O	-	-
-8	Tesco-konton	B-OTH	-	EmilStenstrom
+8	Tesco-konton	O	-	-
 9	och	O	-	-
 10	tjäna	O	-	-
 11	3	O	-	-
@@ -4722,7 +4722,7 @@
 17	till	O	-	-
 18	det	O	-	-
 19	kostnadsfria	O	-	-
-20	Fördels-alternativet	B-OTH	-	EmilStenstrom
+20	Fördels-alternativet	O	-	-
 21	till	O	-	-
 22	sitt	O	-	-
 23	konto	O	-	-
@@ -4757,7 +4757,7 @@
 5	på	O	-	-
 6	innehavare	O	-	-
 7	av	O	-	-
-8	Nectar-kort	B-OTH	-	EmilStenstrom
+8	Nectar-kort	O	-	-
 9	som	O	-	-
 10	vill	O	-	-
 11	låna	O	-	-
@@ -6058,7 +6058,7 @@
 9	,	O	-	-
 10	direkt	O	-	-
 11	efter	O	-	-
-12	Brexitomröstningen	B-OTH	-	EmilStenstrom
+12	Brexitomröstningen	O	-	-
 13	,	O	-	-
 14	men	O	-	-
 15	har	O	-	-
@@ -6149,9 +6149,9 @@
 14	pund	O	-	-
 15	för	O	-	-
 16	dess	O	-	-
-17	Simple	B-OTH	-	EmilStenstrom
-18	and	I-OTH	-	EmilStenstrom
-19	Select-tariff	I-OTH	-	EmilStenstrom
+17	Simple	O	-	-
+18	and	O	-	-
+19	Select-tariff	O	-	-
 20	.	O	-	-
 
 # sent_id = n01109-0003
@@ -6217,15 +6217,15 @@
 2	som	O	-	-
 3	investeras	O	-	-
 4	i	O	-	-
-5	Premieobligationer	B-OTH	-	EmilStenstrom
+5	Premieobligationer	O	-	-
 6	,	O	-	-
 7	och	O	-	-
 8	i	O	-	-
 9	andra	O	-	-
-10	National	B-OTH	-	EmilStenstrom
-11	Savings	I-OTH	-	EmilStenstrom
-12	&	I-OTH	-	EmilStenstrom
-13	Investments-konton	I-OTH	-	EmilStenstrom
+10	National	O	-	-
+11	Savings	O	-	-
+12	&	O	-	-
+13	Investments-konton	O	-	-
 14	,	O	-	-
 15	används	O	-	-
 16	för	O	-	-
@@ -6266,12 +6266,12 @@
 3	av	O	-	-
 4	Aviva	B-LOC	-	EmilStenstrom
 5	Investors	I-LOC	-	EmilStenstrom
-6	Multi	B-OTH	-	EmilStenstrom
-7	Strategy	I-OTH	-	EmilStenstrom
-8	Target	I-OTH	-	EmilStenstrom
-9	Return	I-OTH	-	EmilStenstrom
-10	och	I-OTH	-	EmilStenstrom
-11	Income-fonderna	I-OTH	-	EmilStenstrom
+6	Multi	O	-	-
+7	Strategy	O	-	-
+8	Target	O	-	-
+9	Return	O	-	-
+10	och	O	-	-
+11	Income-fonderna	O	-	-
 12	,	O	-	-
 13	i	O	-	-
 14	vilka	O	-	-
@@ -7282,9 +7282,9 @@
 7	,	O	-	-
 8	inte	O	-	-
 9	”	O	-	-
-10	Game	B-OTH	-	EmilStenstrom
-11	of	I-OTH	-	EmilStenstrom
-12	Thrones	I-OTH	-	EmilStenstrom
+10	Game	O	-	-
+11	of	O	-	-
+12	Thrones	O	-	-
 13	”	O	-	-
 14	.	O	-	-
 
@@ -7309,17 +7309,17 @@
 17	har	O	-	-
 18	namnen	O	-	-
 19	”	O	-	-
-20	The	B-OTH	-	EmilStenstrom
-21	Winds	I-OTH	-	EmilStenstrom
-22	of	I-OTH	-	EmilStenstrom
-23	Winter	I-OTH	-	EmilStenstrom
+20	The	O	-	-
+21	Winds	O	-	-
+22	of	O	-	-
+23	Winter	O	-	-
 24	”	O	-	-
 25	och	O	-	-
 26	”	O	-	-
-27	A	B-OTH	-	EmilStenstrom
-28	Dream	I-OTH	-	EmilStenstrom
-29	of	I-OTH	-	EmilStenstrom
-30	Spring	I-OTH	-	EmilStenstrom
+27	A	O	-	-
+28	Dream	O	-	-
+29	of	O	-	-
+30	Spring	O	-	-
 31	”	O	-	-
 32	.	O	-	-
 
@@ -7561,7 +7561,7 @@
 5	till	O	-	-
 6	och	O	-	-
 7	med	O	-	-
-8	CNN-reportrar	B-OTH	-	EmilStenstrom
+8	CNN-reportrar	O	-	-
 9	klär	O	-	-
 10	ut	O	-	-
 11	sig	O	-	-
@@ -7569,8 +7569,8 @@
 13	karaktärer	O	-	-
 14	från	O	-	-
 15	”	O	-	-
-16	Stranger	B-OTH	-	EmilStenstrom
-17	Things	I-OTH	-	EmilStenstrom
+16	Stranger	O	-	-
+17	Things	O	-	-
 18	”	O	-	-
 19	den	O	-	-
 20	här	O	-	-
@@ -7645,9 +7645,9 @@
 6	eftershow	O	-	-
 7	,	O	-	-
 8	”	O	-	-
-9	The	B-OTH	-	EmilStenstrom
-10	Talking	I-OTH	-	EmilStenstrom
-11	Dead	I-OTH	-	EmilStenstrom
+9	The	O	-	-
+10	Talking	O	-	-
+11	Dead	O	-	-
 12	”	O	-	-
 13	.	O	-	-
 
@@ -8140,7 +8140,7 @@
 # sent_id = n01147-0001
 # text = En F1-biljett ger tillträde till konserten samma dag.
 1	En	O	-	-
-2	F1-biljett	B-OTH	-	EmilStenstrom
+2	F1-biljett	O	-	-
 3	ger	O	-	-
 4	tillträde	O	-	-
 5	till	O	-	-
@@ -8565,8 +8565,8 @@
 1	Enligt	O	-	-
 2	Parker	B-PER	-	EmilStenstrom
 3	är	O	-	-
-4	Ryska	B-OTH	-	EmilStenstrom
-5	underrättelseagenter	I-OTH	-	EmilStenstrom
+4	Ryska	O	-	-
+5	underrättelseagenter	O	-	-
 6	aktiva	O	-	-
 7	i	O	-	-
 8	stora	O	-	-
@@ -8760,8 +8760,8 @@
 10	som	O	-	-
 11	i	O	-	-
 12	60-talshiten	O	-	-
-13	Monster	B-OTH	-	EmilStenstrom
-14	Mash	I-OTH	-	EmilStenstrom
+13	Monster	O	-	-
+14	Mash	O	-	-
 15	.	O	-	-
 
 # newdoc id = n02036
@@ -10059,7 +10059,7 @@
 1	Hitlåten	O	-	-
 2	är	O	-	-
 3	”	O	-	-
-4	Geronimo	B-OTH	-	EmilStenstrom
+4	Geronimo	O	-	-
 5	”	O	-	-
 6	av	O	-	-
 7	Sheppard	B-PER	-	EmilStenstrom
@@ -10497,9 +10497,9 @@
 17	privat	O	-	-
 18	tillställning	O	-	-
 19	utöver	O	-	-
-20	Mountain	B-OTH	-	EmilStenstrom
-21	View	I-OTH	-	EmilStenstrom
-22	Summit	I-OTH	-	EmilStenstrom
+20	Mountain	O	-	-
+21	View	O	-	-
+22	Summit	O	-	-
 23	.	O	-	-
 
 # newdoc id = n05001
@@ -10737,7 +10737,7 @@
 9	sade	O	-	-
 10	i	O	-	-
 11	programmet	O	-	-
-12	Évole	B-OTH	-	EmilStenstrom
+12	Évole	O	-	-
 13	att	O	-	-
 14	Spanien	B-LOC	-	EmilStenstrom
 15	är	O	-	-
@@ -11026,7 +11026,7 @@
 # sent_id = n05009-0002
 # text = Dussintals FSLN-anhängare firar redan segern på Plaza de las Victorias.
 1	Dussintals	O	-	-
-2	FSLN-anhängare	B-OTH	-	EmilStenstrom
+2	FSLN-anhängare	O	-	-
 3	firar	O	-	-
 4	redan	O	-	-
 5	segern	O	-	-
@@ -11058,7 +11058,7 @@
 16	efter	O	-	-
 17	rättsutlåtandet	O	-	-
 18	om	O	-	-
-19	Brexit	B-OTH	-	EmilStenstrom
+19	Brexit	O	-	-
 20	.	O	-	-
 
 # newdoc id = w01001
@@ -11141,8 +11141,8 @@
 
 # sent_id = w01002-0003
 # text = Vinteruniversiaden 2019 kommer ha Krasnoyarsk som värd.
-1	Vinteruniversiaden	B-OTH	-	EmilStenstrom
-2	2019	I-OTH	-	EmilStenstrom
+1	Vinteruniversiaden	O	-	-
+2	2019	O	-	-
 3	kommer	O	-	-
 4	ha	O	-	-
 5	Krasnoyarsk	B-LOC	-	EmilStenstrom
@@ -11357,8 +11357,8 @@
 4	mest	O	-	-
 5	framgångsrika	O	-	-
 6	filmen	O	-	-
-7	El	B-OTH	-	EmilStenstrom
-8	Greco	I-OTH	-	EmilStenstrom
+7	El	O	-	-
+8	Greco	O	-	-
 9	,	O	-	-
 10	regisserad	O	-	-
 11	av	O	-	-
@@ -11856,12 +11856,12 @@
 9	men	O	-	-
 10	de	O	-	-
 11	flesta	O	-	-
-12	Bantufolken	B-OTH	-	EmilStenstrom
+12	Bantufolken	O	-	-
 13	hade	O	-	-
 14	aldrig	O	-	-
 15	kontakt	O	-	-
 16	med	O	-	-
-17	Islam	B-OTH	-	EmilStenstrom
+17	Islam	O	-	-
 18	och	O	-	-
 19	förblev	O	-	-
 20	anhängare	O	-	-
@@ -12257,7 +12257,7 @@
 6	överraskning	O	-	-
 7	för	O	-	-
 8	den	O	-	-
-9	Österrike-preussiska	B-OTH	-	EmilStenstrom
+9	Österrike-preussiska	O	-	-
 10	armén	O	-	-
 11	,	O	-	-
 12	och	O	-	-
@@ -13603,7 +13603,7 @@
 2	,	O	-	-
 3	utgiven	O	-	-
 4	som	O	-	-
-5	Undersea	B-OTH	-	EmilStenstrom
+5	Undersea	O	-	-
 6	,	O	-	-
 7	var	O	-	-
 8	en	O	-	-
@@ -13718,7 +13718,7 @@
 11	Goryeos	B-LOC	-	EmilStenstrom
 12	regering	O	-	-
 13	när	O	-	-
-14	Yuan-dynastin	B-OTH	-	EmilStenstrom
+14	Yuan-dynastin	O	-	-
 15	började	O	-	-
 16	förfalla	O	-	-
 17	.	O	-	-
@@ -13911,7 +13911,7 @@
 12	Yttre	B-LOC	-	EmilStenstrom
 13	Mongoliet	I-LOC	-	EmilStenstrom
 14	under	O	-	-
-15	Qing-perioden	B-OTH	-	EmilStenstrom
+15	Qing-perioden	O	-	-
 16	.	O	-	-
 
 # newdoc id = w01051
@@ -14408,7 +14408,7 @@
 
 # sent_id = w01060-0005
 # text = Khitanerna hade genomfört flera aggressiva förhandlingar om att utvidga sina gränser söderut, medan de manipulerade flera inkompetenta kinesiska ambassadörer vilka gick med på Liao-kungadömets krav.
-1	Khitanerna	B-OTH	-	EmilStenstrom
+1	Khitanerna	O	-	-
 2	hade	O	-	-
 3	genomfört	O	-	-
 4	flera	O	-	-
@@ -14492,7 +14492,7 @@
 3	ha	O	-	-
 4	önskat	O	-	-
 5	att	O	-	-
-6	Senaten	B-OTH	-	EmilStenstrom
+6	Senaten	O	-	-
 7	och	O	-	-
 8	staten	O	-	-
 9	helt	O	-	-
@@ -14680,16 +14680,16 @@
 13	erövrade	O	-	-
 14	platser	O	-	-
 15	vid	O	-	-
-16	Thutmosis	B-OTH	-	EmilStenstrom
-17	tempel	I-OTH	-	EmilStenstrom
+16	Thutmosis	O	-	-
+17	tempel	O	-	-
 18	vid	O	-	-
 19	Karnak	B-LOC	-	EmilStenstrom
 20	.	O	-	-
 
 # sent_id = w01065-0005
 # text = Tell Amarna-breven, som kommer från 1300-talet fvt, inkluderar tio brev från kungarna i Gezer som svär trohet till den egyptiske faraon.
-1	Tell	B-OTH	-	EmilStenstrom
-2	Amarna-breven	I-OTH	-	EmilStenstrom
+1	Tell	O	-	-
+2	Amarna-breven	O	-	-
 3	,	O	-	-
 4	som	O	-	-
 5	kommer	O	-	-
@@ -14716,7 +14716,7 @@
 # newdoc id = w01066
 # sent_id = w01066-0001
 # text = Thailändska födelsebevis noterar datum månad och tid för födseln, följt av veckodag, datum enligt månkalender och det tillämpbara zodiakdjurets namn.
-1	Thailändska	B-OTH	-	EmilStenstrom
+1	Thailändska	O	-	-
 2	födelsebevis	O	-	-
 3	noterar	O	-	-
 4	datum	O	-	-
@@ -14932,9 +14932,9 @@
 9	och	O	-	-
 10	fick	O	-	-
 11	titeln	O	-	-
-12	Helig	B-OTH	-	EmilStenstrom
-13	romersk	I-OTH	-	EmilStenstrom
-14	kejsare	I-OTH	-	EmilStenstrom
+12	Helig	O	-	-
+13	romersk	O	-	-
+14	kejsare	O	-	-
 15	1530	O	-	-
 16	.	O	-	-
 
@@ -15133,7 +15133,7 @@
 1	Ursprunget	O	-	-
 2	för	O	-	-
 3	ordet	O	-	-
-4	Hispania	B-OTH	-	EmilStenstrom
+4	Hispania	O	-	-
 5	är	O	-	-
 6	mycket	O	-	-
 7	omstritt	O	-	-
@@ -15168,7 +15168,7 @@
 1	Men	O	-	-
 2	inverkan	O	-	-
 3	av	O	-	-
-4	Hispania	B-OTH	-	EmilStenstrom
+4	Hispania	O	-	-
 5	på	O	-	-
 6	nykomlingarna	O	-	-
 7	var	O	-	-
@@ -15307,7 +15307,7 @@
 6	trettionio	O	-	-
 7	historier	O	-	-
 8	i	O	-	-
-9	Gazzete	B-OTH	-	EmilStenstrom
+9	Gazzete	O	-	-
 10	mellan	O	-	-
 11	november	O	-	-
 12	1886	O	-	-
@@ -15563,7 +15563,7 @@
 
 # sent_id = w01076-0002
 # text = Arabrevolten som började 1916 vände förloppet mot osmanerna på mellanösternfronten, där de inledningsvis verkade ha överhanden under de två första åren av kriget.
-1	Arabrevolten	B-OTH	-	EmilStenstrom
+1	Arabrevolten	O	-	-
 2	som	O	-	-
 3	började	O	-	-
 4	1916	O	-	-
@@ -15683,7 +15683,7 @@
 4	kastat	O	-	-
 5	ut	O	-	-
 6	sin	O	-	-
-7	Sefardiska	B-OTH	-	EmilStenstrom
+7	Sefardiska	O	-	-
 8	befolkning	O	-	-
 9	1492	O	-	-
 10	;	O	-	-
@@ -16295,8 +16295,8 @@
 # newdoc id = w01094
 # sent_id = w01094-0001
 # text = Ford T utropades till den mest inflytelserika bilen under 1900-talet vid de internationella Car of the Century-utmärkelserna.
-1	Ford	B-OTH	-	EmilStenstrom
-2	T	I-OTH	-	EmilStenstrom
+1	Ford	O	-	-
+2	T	O	-	-
 3	utropades	O	-	-
 4	till	O	-	-
 5	den	O	-	-
@@ -16308,10 +16308,10 @@
 11	vid	O	-	-
 12	de	O	-	-
 13	internationella	O	-	-
-14	Car	B-OTH	-	EmilStenstrom
-15	of	I-OTH	-	EmilStenstrom
-16	the	I-OTH	-	EmilStenstrom
-17	Century-utmärkelserna	I-OTH	-	EmilStenstrom
+14	Car	O	-	-
+15	of	O	-	-
+16	the	O	-	-
+17	Century-utmärkelserna	O	-	-
 18	.	O	-	-
 
 # sent_id = w01094-0002
@@ -16322,7 +16322,7 @@
 4	Motors	I-ORG	-	EmilStenstrom
 5	storleksmässigt	O	-	-
 6	kompakta	O	-	-
-7	Rambler	B-OTH	-	EmilStenstrom
+7	Rambler	O	-	-
 8	sporrade	O	-	-
 9	GM	B-ORG	-	EmilStenstrom
 10	och	O	-	-
@@ -16655,8 +16655,8 @@
 4	Kina	B-LOC	-	EmilStenstrom
 5	utkämpa	O	-	-
 6	det	O	-	-
-7	Första	B-OTH	-	EmilStenstrom
-8	opiumkriget	I-OTH	-	EmilStenstrom
+7	Första	O	-	-
+8	opiumkriget	O	-	-
 9	med	O	-	-
 10	Storbritannien	B-LOC	-	EmilStenstrom
 11	efter	O	-	-
@@ -16688,7 +16688,7 @@
 8	på	O	-	-
 9	villkoren	O	-	-
 10	i	O	-	-
-11	Nankingfördraget	B-OTH	-	EmilStenstrom
+11	Nankingfördraget	O	-	-
 12	.	O	-	-
 
 # sent_id = w01100-0003
@@ -16722,8 +16722,8 @@
 2	1856	O	-	-
 3	bröt	O	-	-
 4	det	O	-	-
-5	Andra	B-OTH	-	EmilStenstrom
-6	opiumkriget	I-OTH	-	EmilStenstrom
+5	Andra	O	-	-
+6	opiumkriget	O	-	-
 7	ut	O	-	-
 8	;	O	-	-
 9	kineserna	O	-	-
@@ -16734,10 +16734,10 @@
 14	till	O	-	-
 15	villkoren	O	-	-
 16	i	O	-	-
-17	Tientsinfördraget	B-OTH	-	EmilStenstrom
+17	Tientsinfördraget	O	-	-
 18	1858	O	-	-
 19	och	O	-	-
-20	Pekingkonventionen	B-OTH	-	EmilStenstrom
+20	Pekingkonventionen	O	-	-
 21	1860	O	-	-
 22	.	O	-	-
 23	"	O	-	-
@@ -16933,10 +16933,10 @@
 9	fastän	O	-	-
 10	ett	O	-	-
 11	antal	O	-	-
-12	B-29:or	B-OTH	-	EmilStenstrom
+12	B-29:or	O	-	-
 13	utrustades	O	-	-
 14	med	O	-	-
-15	Eagle	B-OTH	-	EmilStenstrom
+15	Eagle	O	-	-
 16	och	O	-	-
 17	den	O	-	-
 18	fungerade	O	-	-
@@ -16982,12 +16982,12 @@
 24	Berlin	O	-	-
 25	,	O	-	-
 26	var	O	-	-
-27	Ground	B-OTH	-	EmilStenstrom
-28	Controlled	I-OTH	-	EmilStenstrom
-29	Approach	I-OTH	-	EmilStenstrom
-30	(	I-OTH	-	EmilStenstrom
-31	GCA	I-OTH	-	EmilStenstrom
-32	)	I-OTH	-	EmilStenstrom
+27	Ground	O	-	-
+28	Controlled	O	-	-
+29	Approach	O	-	-
+30	(	O	-	-
+31	GCA	O	-	-
+32	)	O	-	-
 33	.	O	-	-
 
 # sent_id = w01105-0003
@@ -17007,7 +17007,7 @@
 13	optisk	O	-	-
 14	upplösning	O	-	-
 15	möjliggör	O	-	-
-16	GCA	B-OTH	-	EmilStenstrom
+16	GCA	O	-	-
 17	för	O	-	-
 18	markbaserade	O	-	-
 19	radaroperatörer	O	-	-
@@ -17330,8 +17330,8 @@
 7	han	O	-	-
 8	spelade	O	-	-
 9	in	O	-	-
-10	That	B-OTH	-	EmilStenstrom
-11	Summer	I-OTH	-	EmilStenstrom
+10	That	O	-	-
+11	Summer	O	-	-
 12	1979	O	-	-
 13	.	O	-	-
 
@@ -17375,8 +17375,8 @@
 2	vann	O	-	-
 3	ännu	O	-	-
 4	en	O	-	-
-5	heders-Academy	B-OTH	-	EmilStenstrom
-6	Award	I-OTH	-	EmilStenstrom
+5	heders-Academy	O	-	-
+6	Award	O	-	-
 7	,	O	-	-
 8	som	O	-	-
 9	bestod	O	-	-
@@ -17385,7 +17385,7 @@
 12	fullstorlek-	O	-	-
 13	och	O	-	-
 14	sju	O	-	-
-15	miniatyr-Oscarsstatyetter	B-OTH	-	EmilStenstrom
+15	miniatyr-Oscarsstatyetter	O	-	-
 16	.	O	-	-
 
 # newdoc id = w01113
@@ -17557,7 +17557,7 @@
 4	och	O	-	-
 5	erhöll	O	-	-
 6	en	O	-	-
-7	Fil.Mag.	B-OTH	-	EmilStenstrom
+7	Fil.Mag.	O	-	-
 8	21	O	-	-
 9	april	O	-	-
 10	1882	O	-	-
@@ -17624,17 +17624,17 @@
 4	totala	O	-	-
 5	försäljningen	O	-	-
 6	av	O	-	-
-7	The	B-OTH	-	EmilStenstrom
-8	Power	I-OTH	-	EmilStenstrom
-9	of	I-OTH	-	EmilStenstrom
-10	Now	I-OTH	-	EmilStenstrom
+7	The	O	-	-
+8	Power	O	-	-
+9	of	O	-	-
+10	Now	O	-	-
 11	och	O	-	-
-12	A	B-OTH	-	EmilStenstrom
-13	New	I-OTH	-	EmilStenstrom
-14	Earth	I-OTH	-	EmilStenstrom
-15	in	I-OTH	-	EmilStenstrom
-16	North	I-OTH	-	EmilStenstrom
-17	America	I-OTH	-	EmilStenstrom
+12	A	O	-	-
+13	New	O	-	-
+14	Earth	O	-	-
+15	in	O	-	-
+16	North	O	-	-
+17	America	O	-	-
 18	uppskattats	O	-	-
 19	till	O	-	-
 20	tre	O	-	-
@@ -17826,10 +17826,10 @@
 # newdoc id = w01122
 # sent_id = w01122-0001
 # text = Really Really Love You släpptes i augusti och nådde topp 50: ”Shaky Ground”, den tillhörande singeln, dök upp i september men Geyer var redan i USA.
-1	Really	B-OTH	-	EmilStenstrom
-2	Really	I-OTH	-	EmilStenstrom
-3	Love	I-OTH	-	EmilStenstrom
-4	You	I-OTH	-	EmilStenstrom
+1	Really	O	-	-
+2	Really	O	-	-
+3	Love	O	-	-
+4	You	O	-	-
 5	släpptes	O	-	-
 6	i	O	-	-
 7	augusti	O	-	-
@@ -17839,8 +17839,8 @@
 11	50	O	-	-
 12	:	O	-	-
 13	”	O	-	-
-14	Shaky	B-OTH	-	EmilStenstrom
-15	Ground	I-OTH	-	EmilStenstrom
+14	Shaky	O	-	-
+15	Ground	O	-	-
 16	”	O	-	-
 17	,	O	-	-
 18	den	O	-	-
@@ -17902,15 +17902,15 @@
 4	uppgång	O	-	-
 5	avstannat	O	-	-
 6	på	O	-	-
-7	Billboard	B-OTH	-	EmilStenstrom
-8	200	I-OTH	-	EmilStenstrom
+7	Billboard	O	-	-
+8	200	O	-	-
 9	som	O	-	-
 10	nr	O	-	-
 11	96	O	-	-
 12	klättrade	O	-	-
-13	Thought	B-OTH	-	EmilStenstrom
-14	'Ya	I-OTH	-	EmilStenstrom
-15	Knew	I-OTH	-	EmilStenstrom
+13	Thought	O	-	-
+14	'Ya	O	-	-
+15	Knew	O	-	-
 16	till	O	-	-
 17	nr	O	-	-
 18	31	O	-	-
@@ -17947,8 +17947,8 @@
 13	teaterproduktion	O	-	-
 14	av	O	-	-
 15	musikalen	O	-	-
-16	The	B-OTH	-	EmilStenstrom
-17	Wiz	I-OTH	-	EmilStenstrom
+16	The	O	-	-
+17	Wiz	O	-	-
 18	.	O	-	-
 
 # newdoc id = w01125
@@ -18067,8 +18067,8 @@
 # text = Hennes album Wild West från 1981 var ett av hennes mest säljande.
 1	Hennes	O	-	-
 2	album	O	-	-
-3	Wild	B-OTH	-	EmilStenstrom
-4	West	I-OTH	-	EmilStenstrom
+3	Wild	O	-	-
+4	West	O	-	-
 5	från	O	-	-
 6	1981	O	-	-
 7	var	O	-	-
@@ -18120,8 +18120,8 @@
 12	till	O	-	-
 13	låten	O	-	-
 14	”	O	-	-
-15	Fjögur	B-OTH	-	EmilStenstrom
-16	Píanó	I-OTH	-	EmilStenstrom
+15	Fjögur	O	-	-
+16	Píanó	O	-	-
 17	”	O	-	-
 18	med	O	-	-
 19	LaBeouf	B-PER	-	EmilStenstrom
@@ -18196,8 +18196,8 @@
 16	2003	O	-	-
 17	års	O	-	-
 18	NASCAR	B-ORG	-	EmilStenstrom
-19	Winston	B-OTH	-	EmilStenstrom
-20	Cup-mästare	I-OTH	-	EmilStenstrom
+19	Winston	O	-	-
+20	Cup-mästare	O	-	-
 21	,	O	-	-
 22	den	O	-	-
 23	siste	O	-	-
@@ -18238,12 +18238,12 @@
 
 # sent_id = w01130-0002
 # text = On a Wing and a Prayer (1992) återförenade honom med hans Stealers Wheel-partner Egan på flera spår.
-1	On	B-OTH	-	EmilStenstrom
-2	a	I-OTH	-	EmilStenstrom
-3	Wing	I-OTH	-	EmilStenstrom
-4	and	I-OTH	-	EmilStenstrom
-5	a	I-OTH	-	EmilStenstrom
-6	Prayer	I-OTH	-	EmilStenstrom
+1	On	O	-	-
+2	a	O	-	-
+3	Wing	O	-	-
+4	and	O	-	-
+5	a	O	-	-
+6	Prayer	O	-	-
 7	(	O	-	-
 8	1992	O	-	-
 9	)	O	-	-
@@ -18299,21 +18299,21 @@
 6	version	O	-	-
 7	av	O	-	-
 8	sin	O	-	-
-9	Humblebums-låt	B-OTH	-	EmilStenstrom
+9	Humblebums-låt	O	-	-
 10	”	O	-	-
-11	Her	B-OTH	-	EmilStenstrom
-12	Father	I-OTH	-	EmilStenstrom
-13	Did	I-OTH	-	EmilStenstrom
-14	n't	I-OTH	-	EmilStenstrom
-15	Like	I-OTH	-	EmilStenstrom
-16	Me	I-OTH	-	EmilStenstrom
-17	Anyway	I-OTH	-	EmilStenstrom
+11	Her	O	-	-
+12	Father	O	-	-
+13	Did	O	-	-
+14	n't	O	-	-
+15	Like	O	-	-
+16	Me	O	-	-
+17	Anyway	O	-	-
 18	”	O	-	-
 19	på	O	-	-
 20	albumet	O	-	-
-21	Over	B-OTH	-	EmilStenstrom
-22	My	I-OTH	-	EmilStenstrom
-23	Head	I-OTH	-	EmilStenstrom
+21	Over	O	-	-
+22	My	O	-	-
+23	Head	O	-	-
 24	(	O	-	-
 25	1994	O	-	-
 26	)	O	-	-
@@ -18511,8 +18511,8 @@
 15	självständigt	O	-	-
 16	publicerade	O	-	-
 17	science-fictionantologin	O	-	-
-18	Star	B-OTH	-	EmilStenstrom
-19	Reach	I-OTH	-	EmilStenstrom
+18	Star	O	-	-
+19	Reach	O	-	-
 20	.	O	-	-
 
 # newdoc id = w01134
@@ -18586,11 +18586,11 @@
 6	för	O	-	-
 7	den	O	-	-
 8	nya	O	-	-
-9	Yves	B-OTH	-	EmilStenstrom
-10	Saint	I-OTH	-	EmilStenstrom
-11	Laurent-doften	I-OTH	-	EmilStenstrom
+9	Yves	O	-	-
+10	Saint	O	-	-
+11	Laurent-doften	O	-	-
 12	,	O	-	-
-13	Opium	B-OTH	-	EmilStenstrom
+13	Opium	O	-	-
 14	.	O	-	-
 
 # sent_id = w01135-0002
@@ -18603,9 +18603,9 @@
 6	den	O	-	-
 7	brittiska	O	-	-
 8	komedin	O	-	-
-9	Laxfiske	B-OTH	-	EmilStenstrom
-10	i	I-OTH	-	EmilStenstrom
-11	Jemen	I-OTH	-	EmilStenstrom
+9	Laxfiske	O	-	-
+10	i	O	-	-
+11	Jemen	O	-	-
 12	regisserad	O	-	-
 13	av	O	-	-
 14	Lasse	B-PER	-	EmilStenstrom
@@ -18631,8 +18631,8 @@
 5	kort	O	-	-
 6	i	O	-	-
 7	Disneys	B-ORG	-	EmilStenstrom
-8	The	B-OTH	-	EmilStenstrom
-9	Muppets	I-OTH	-	EmilStenstrom
+8	The	O	-	-
+9	Muppets	O	-	-
 10	,	O	-	-
 11	som	O	-	-
 12	Miss	B-PER	-	EmilStenstrom
@@ -18647,9 +18647,9 @@
 3	huvudrollen	O	-	-
 4	i	O	-	-
 5	filmen	O	-	-
-6	The	B-OTH	-	EmilStenstrom
-7	Five-Year	I-OTH	-	EmilStenstrom
-8	Engagement	I-OTH	-	EmilStenstrom
+6	The	O	-	-
+7	Five-Year	O	-	-
+8	Engagement	O	-	-
 9	från	O	-	-
 10	2012	O	-	-
 11	,	O	-	-
@@ -18679,7 +18679,7 @@
 10	amerikansk	O	-	-
 11	science-fictionfilm	O	-	-
 12	,	O	-	-
-13	Looper	B-OTH	-	EmilStenstrom
+13	Looper	O	-	-
 14	,	O	-	-
 15	i	O	-	-
 16	regi	O	-	-
@@ -18742,9 +18742,9 @@
 18	en	O	-	-
 19	version	O	-	-
 20	av	O	-	-
-21	Romeo	B-OTH	-	EmilStenstrom
-22	och	I-OTH	-	EmilStenstrom
-23	Julia	I-OTH	-	EmilStenstrom
+21	Romeo	O	-	-
+22	och	O	-	-
+23	Julia	O	-	-
 24	.	O	-	-
 
 # newdoc id = w01137
@@ -18754,10 +18754,10 @@
 2	Halifax	B-PER	-	EmilStenstrom
 3	,	O	-	-
 4	Lord	O	-	-
-5	President	B-OTH	-	EmilStenstrom
-6	of	I-OTH	-	EmilStenstrom
-7	the	I-OTH	-	EmilStenstrom
-8	Council	I-OTH	-	EmilStenstrom
+5	President	O	-	-
+6	of	O	-	-
+7	the	O	-	-
+8	Council	O	-	-
 9	,	O	-	-
 10	besökte	O	-	-
 11	Tyskland	B-LOC	-	EmilStenstrom
@@ -18869,7 +18869,7 @@
 2	annat	O	-	-
 3	tema	O	-	-
 4	i	O	-	-
-5	Skylark-romanerna	B-OTH	-	EmilStenstrom
+5	Skylark-romanerna	O	-	-
 6	blandar	O	-	-
 7	in	O	-	-
 8	föregångare	O	-	-
@@ -19162,7 +19162,7 @@
 10	playboy	O	-	-
 11	,	O	-	-
 12	i	O	-	-
-13	Sabrina	B-OTH	-	EmilStenstrom
+13	Sabrina	O	-	-
 14	(	O	-	-
 15	1954	O	-	-
 16	)	O	-	-
@@ -19370,7 +19370,7 @@
 4	skrev	O	-	-
 5	låten	O	-	-
 6	”	O	-	-
-7	Stephen	B-OTH	-	EmilStenstrom
+7	Stephen	O	-	-
 8	”	O	-	-
 9	tillsammans	O	-	-
 10	när	O	-	-
@@ -19512,14 +19512,14 @@
 13	i	O	-	-
 14	hans	O	-	-
 15	filmer	O	-	-
-16	Liftarens	B-OTH	-	EmilStenstrom
-17	guide	I-OTH	-	EmilStenstrom
-18	till	I-OTH	-	EmilStenstrom
-19	galaxen	I-OTH	-	EmilStenstrom
+16	Liftarens	O	-	-
+17	guide	O	-	-
+18	till	O	-	-
+19	galaxen	O	-	-
 20	och	O	-	-
-21	Son	B-OTH	-	EmilStenstrom
-22	of	I-OTH	-	EmilStenstrom
-23	Rambow	I-OTH	-	EmilStenstrom
+21	Son	O	-	-
+22	of	O	-	-
+23	Rambow	O	-	-
 24	.	O	-	-
 
 # newdoc id = w01150
@@ -19540,7 +19540,7 @@
 1	Vid	O	-	-
 2	inledningen	O	-	-
 3	av	O	-	-
-4	Londonkonferensen	B-OTH	-	EmilStenstrom
+4	Londonkonferensen	O	-	-
 5	i	O	-	-
 6	december	O	-	-
 7	1912	O	-	-
@@ -19613,7 +19613,7 @@
 
 # sent_id = w01150-0005
 # text = Londonfördraget, underskrivet 30 maj 1913, delade upp betydande delar av det territorium som Albanien gjorde anspråk på, oavsett dess etniska uppbyggnad, mellan de allierade på Balkan och minskade Albaniens territorium till dess centrala regioner.
-1	Londonfördraget	B-OTH	-	EmilStenstrom
+1	Londonfördraget	O	-	-
 2	,	O	-	-
 3	underskrivet	O	-	-
 4	30	O	-	-
@@ -19750,8 +19750,8 @@
 16	vid	O	-	-
 17	slutet	O	-	-
 18	av	O	-	-
-19	Andra	B-OTH	-	EmilStenstrom
-20	världskriget	I-OTH	-	EmilStenstrom
+19	Andra	O	-	-
+20	världskriget	O	-	-
 21	.	O	-	-
 
 # newdoc id = w02003
@@ -19891,8 +19891,8 @@
 9	och	O	-	-
 10	avkoppling	O	-	-
 11	för	O	-	-
-12	San	B-OTH	-	EmilStenstrom
-13	Franciscoborna	I-OTH	-	EmilStenstrom
+12	San	O	-	-
+13	Franciscoborna	O	-	-
 14	.	O	-	-
 
 # sent_id = w02005-0003
@@ -20204,8 +20204,8 @@
 3	de	O	-	-
 4	första	O	-	-
 5	internationella	O	-	-
-6	Olympiska	B-OTH	-	EmilStenstrom
-7	spelen	I-OTH	-	EmilStenstrom
+6	Olympiska	O	-	-
+7	spelen	O	-	-
 8	avslutade	O	-	-
 9	.	O	-	-
 
@@ -20246,7 +20246,7 @@
 
 # sent_id = w02013-0002
 # text = Suez-krisen visade begränsningarna för de gamla kolonialmakterna som Storbritannien och Frankrike i en föränderlig värld.
-1	Suez-krisen	B-OTH	-	EmilStenstrom
+1	Suez-krisen	O	-	-
 2	visade	O	-	-
 3	begränsningarna	O	-	-
 4	för	O	-	-
@@ -20567,8 +20567,8 @@
 6	distinktionen	O	-	-
 7	av	O	-	-
 8	den	O	-	-
-9	Amerikanska	B-OTH	-	EmilStenstrom
-10	vänskapsmedaljen	I-OTH	-	EmilStenstrom
+9	Amerikanska	O	-	-
+10	vänskapsmedaljen	O	-	-
 11	för	O	-	-
 12	den	O	-	-
 13	vänliga	O	-	-
@@ -20692,13 +20692,13 @@
 # sent_id = w03003-0002
 # text = Under Endurance-expeditionen 1914 satte det brittiska skeppet Endurance, med kaptenen Sir Ernest Shackleton, segel med tjugoåtta män för att korsa Antarktis.
 1	Under	O	-	-
-2	Endurance-expeditionen	B-OTH	-	EmilStenstrom
+2	Endurance-expeditionen	O	-	-
 3	1914	O	-	-
 4	satte	O	-	-
 5	det	O	-	-
 6	brittiska	O	-	-
 7	skeppet	O	-	-
-8	Endurance	B-OTH	-	EmilStenstrom
+8	Endurance	O	-	-
 9	,	O	-	-
 10	med	O	-	-
 11	kaptenen	O	-	-
@@ -20983,7 +20983,7 @@
 14	på	O	-	-
 15	trycket	O	-	-
 16	från	O	-	-
-17	Skräckväldet	B-OTH	-	EmilStenstrom
+17	Skräckväldet	O	-	-
 18	olika	O	-	-
 19	åtgärder	O	-	-
 20	för	O	-	-
@@ -21093,7 +21093,7 @@
 9	om	O	-	-
 10	att	O	-	-
 11	bearbeta	O	-	-
-12	Tintin	B-OTH	-	EmilStenstrom
+12	Tintin	O	-	-
 13	för	O	-	-
 14	film	O	-	-
 15	ett	O	-	-
@@ -22304,12 +22304,12 @@
 32	honom	O	-	-
 33	:	O	-	-
 34	”	O	-	-
-35	Do	B-OTH	-	EmilStenstrom
-36	n't	I-OTH	-	EmilStenstrom
-37	Go	I-OTH	-	EmilStenstrom
-38	Breaking	I-OTH	-	EmilStenstrom
-39	My	I-OTH	-	EmilStenstrom
-40	Heart	I-OTH	-	EmilStenstrom
+35	Do	O	-	-
+36	n't	O	-	-
+37	Go	O	-	-
+38	Breaking	O	-	-
+39	My	O	-	-
+40	Heart	O	-	-
 41	”	O	-	-
 42	.	O	-	-
 
