@@ -15,5 +15,8 @@
     "LOC": 442,
     "PER": 425,
     "ORG": 162
+  },
+  "pairwise_f1": {
+    "average": {}
   }
 }
