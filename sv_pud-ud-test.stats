@@ -2,13 +2,14 @@
   "dataset_id": "sv_pud-ud-test",
   "num_documents": 397,
   "num_annotated_documents": 397,
-  "num_annotations": 1542,
-  "num_annotators": 2,
+  "num_annotations": 1572,
+  "num_annotators": 3,
   "annotator_ids": [
     "ekaterina.artemova",
-    "emil"
+    "emil",
+    "stephen"
   ],
-  "num_docs_with_multiple_annotators": 1,
+  "num_docs_with_multiple_annotators": 11,
   "num_sentences": 1000,
   "num_tokens": 19076,
   "label_distribution": {
@@ -17,6 +18,40 @@
     "ORG": 162
   },
   "pairwise_f1": {
-    "average": {}
+    "ref:emil, pred:stephen": {
+      "num_common_annotated_docs": 10,
+      "LOC": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1": 0.7142857142857143
+      },
+      "ORG": {
+        "precision": 0.8,
+        "recall": 0.6666666666666666,
+        "f1": 0.7272727272727272
+      },
+      "PER": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "average": {
+      "LOC": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1": 0.7142857142857143
+      },
+      "ORG": {
+        "precision": 0.8,
+        "recall": 0.6666666666666666,
+        "f1": 0.7272727272727272
+      },
+      "PER": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    }
   }
 }
